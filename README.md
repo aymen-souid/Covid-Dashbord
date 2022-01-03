@@ -3,11 +3,23 @@
 execute streamlit run main.py
 
 This project is about statistics and visualisations of covid vaccination compaign.
+
+
 I've turned main.py  scripts into shareable web app using streamlit.
+
+
 The database used is MongoDB.
+
+
 Scrap.py scraps data from evax.tn website which contain open data about vaccination compaign in tunisia.
+
+
 mongo.py stores this data to mongodb database.
+
+
 main.py execture the different plots based on the data provided from a connection with mongodb database.
+
+
 ![Screenshot from 2022-01-03 23-21-51](https://user-images.githubusercontent.com/92583830/147987227-d36e74e8-a21f-4626-a331-686fd4c8d90c.png)
 ![Screenshot from 2022-01-03 23-21-29](https://user-images.githubusercontent.com/92583830/147987233-80db2f54-605f-4966-9dd2-72b86136b4b8.png)
 ![Screenshot from 2022-01-03 23-21-36](https://user-images.githubusercontent.com/92583830/147987238-4b78472b-089c-4ecc-ae34-4370b04e090b.png)

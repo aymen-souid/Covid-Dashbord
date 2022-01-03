@@ -2,7 +2,7 @@
 
 execute streamlit run main.py
 
-This project is about statistics and visualisations of covid vaccination compaign.
+This project is about statistics and visualisations of covid vaccination campaign.
 
 
 I've turned main.py  scripts into shareable web app using streamlit.
